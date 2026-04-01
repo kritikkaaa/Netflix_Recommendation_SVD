@@ -17,7 +17,7 @@ This project predicts how a user would rate a movie they haven't watched yet, an
 ## 🗂️ Project Structure
 
 ```
-netflix-svd-recommendation/
+Netflix_Recommendation_SVD/
 │
 ├── netflix_svd_recommendation.py   # Main script (all steps)
 ├── requirements.txt                # Python dependencies
@@ -83,7 +83,7 @@ USER_ID = 1331154  # Replace with any valid customer ID
 ## 📦 Requirements
 
 See `requirements.txt`. Key libraries:
-- `numpy`
+- `numpy==2.4.4`
 - `pandas`
 - `scikit-surprise`
 - `matplotlib`
