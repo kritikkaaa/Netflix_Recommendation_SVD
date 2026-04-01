@@ -54,8 +54,8 @@ netflix-svd-recommendation/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/kritikkaaa/netflix-svd-recommendation.git
-cd netflix-svd-recommendation
+git clone https://github.com/kritikkaaa/Netflix_Recommendation_SVD.git
+cd Netflix_Recommendation_SVD
 ```
 
 ### 2. Install dependencies
@@ -109,6 +109,6 @@ __pycache__/
 
 ## 🙋 Author
 
-**[Kritika Kamboj]**  
+**Kritika Kamboj**  
 
 ---
