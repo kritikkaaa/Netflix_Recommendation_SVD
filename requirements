@@ -1,0 +1,6 @@
+numpy==2.4.4
+pandas
+scikit-surprise
+matplotlib
+seaborn
+pickle-mixin
