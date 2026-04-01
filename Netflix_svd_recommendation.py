@@ -7,11 +7,9 @@
 # ============================================================
 
 # ── 0. Dependencies ──────────────────────────────────────────
-# NumPy 2.4.4
-# Note: if you face compatibility issues with scikit-surprise, fall back to numpy==1.26.4
 !pip uninstall -y numpy
-!pip install numpy==2.4.4
-!pip install scikit-surprise --prefer-binary
+!pip install numpy==1.26.4
+!pip install scikit-surprise 
 
 # ── 1. Imports ───────────────────────────────────────────────
 from google.colab import drive
