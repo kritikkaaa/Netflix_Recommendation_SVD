@@ -83,7 +83,7 @@ USER_ID = 1331154  # Replace with any valid customer ID
 ## 📦 Requirements
 
 See `requirements.txt`. Key libraries:
-- `numpy==2.4.4`
+- `numpy==1.26.4`
 - `pandas`
 - `scikit-surprise`
 - `matplotlib`
