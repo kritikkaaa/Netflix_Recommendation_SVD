@@ -1,0 +1,23 @@
+# Dataset files (do not upload due to licensing)
+*.csv
+*.txt
+
+# Trained model (too large for git)
+*.pkl
+*.npy
+*.h5
+
+# Environment
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
